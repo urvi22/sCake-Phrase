@@ -1,9 +1,0 @@
-Keyword Extraction is an important task in several text analysis endeavours. In this paper, we present a critical discussion of the issues and challenges in
-graph-based keyword extraction methods, along with comprehensive empirical
-analysis. We propose a parameterless method for constructing graph of text that
-captures the contextual relation between words. A novel word scoring method is
-also proposed based on the connection between concepts. We demonstrate that
-both proposals are individually superior to those followed by the state-of-the-
-art graph-based keyword extraction algorithms. Combination of the proposed
-graph construction and scoring methods leads to a novel, parameterless keyword
-extraction method (sCAKE) based on semantic connectivity of words in the document.
